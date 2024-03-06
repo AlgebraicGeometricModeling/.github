@@ -30,7 +30,7 @@ They are available at [github.com/AlgebraicGeometricModeling/](https://github.co
 [![](https://img.shields.io/badge/docs-latest-blue.svg)](https://AlgebraicGeometricModeling.github.io/SemiAlgebraicTypes.jl/) 
 [![](https://img.shields.io/badge/source-orange)](https://github.com/AlgebraicGeometricModeling/SemiAlgebraicTypes.jl)
 
-- **Axl.jl**: visualization of semi-algebraic objects<br/>  
+- **Axl.jl**: visualization of semi-algebraic objects  
 [![](https://img.shields.io/badge/docs-latest-blue.svg)](http://axl.inria.fr/doc/Axl.jl/)
 [![](https://img.shields.io/badge/source-orange)](https://github.com/AlgebraicGeometricModeling/Axl.jl)
 
