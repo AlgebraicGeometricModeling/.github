@@ -11,12 +11,10 @@ and tools to create them, to compute with them, ...
 They are available at [github.com/AlgebraicGeometricModeling/](https://github.com/AlgebraicGeometricModeling/).
 
 - **AlgebraicSolvers.jl**: solvers of multivariate polynomial equations, using resultant constructions and computing truncated normal forms
-
 [![](https://img.shields.io/badge/docs-latest-blue.svg)](https://AlgebraicGeometricModeling.github.io/AlgebraicSolvers.jl/)
 [![](https://img.shields.io/badge/source-orange)](https://github.com/AlgebraicGeometricModeling/AlgebraicSolvers.jl)
 
 - **MomentTools.jl**: solvers of polynomial optimization problems based on moment relaxations
-
 [![](https://img.shields.io/badge/docs-latest-blue.svg)](https://AlgebraicGeometricModeling.github.io/MomentTools.jl/)
 [![](https://img.shields.io/badge/source-orange)](https://github.com/AlgebraicGeometricModeling/MomentTools.jl/)
 
