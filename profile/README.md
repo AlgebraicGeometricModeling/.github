@@ -10,8 +10,7 @@ and tools to create them, to compute with them, ...
 ## Julia Packages
 They are available at [github.com/AlgebraicGeometricModeling/](https://github.com/AlgebraicGeometricModeling/).
 
-- **AlgebraicSolvers.jl**: solvers of multivariate polynomial equations, using resultant constructions and computing truncated normal forms
-<br/>
+- **AlgebraicSolvers.jl**: solvers of multivariate polynomial equations, using resultant constructions and computing truncated normal forms<br/>
 [![](https://img.shields.io/badge/docs-latest-blue.svg)](https://AlgebraicGeometricModeling.github.io/AlgebraicSolvers.jl/)
 [![](https://img.shields.io/badge/source-orange)](https://github.com/AlgebraicGeometricModeling/AlgebraicSolvers.jl)
 
